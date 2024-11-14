@@ -1,7 +1,7 @@
 backend:
-npm install
-npm server.js or npm start
+1) npm install 
+2)npm server.js or npm start
 
-code-challenge(1)
-npm install
-npm run dev
+code-challenge(1): 
+1) npm install
+2) npm run dev
